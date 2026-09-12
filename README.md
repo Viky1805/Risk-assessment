@@ -144,7 +144,7 @@ Was the operation successful or did it generate an error?
 
 Students should prepare a final table similar to the following:
 
-<img width="1040" height="326" alt="image" src="https://github.com/user-attachments/assets/b5aa5739-a8c7-48d9-be53-55e468805905" />
+<img width="1220" height="268" alt="image" src="https://github.com/user-attachments/assets/ff68c0b6-1aa2-4906-bb5f-c171db9b9336" />
 
 ## PART F — SCREENSHOTS TO SUBMIT
 

@@ -112,7 +112,7 @@ This event is associated with Amazon EC2.
 
 Compare the two CloudTrail events.
 
-<img width="862" height="415" alt="image" src="https://github.com/user-attachments/assets/81dad125-b7c0-48df-9c0f-5b3cce8d2d12" />
+<img width="1005" height="818" alt="image" src="https://github.com/user-attachments/assets/d4524caa-1633-4abb-adfa-0c5c41edfb37" />
 
 ## PART E — SECURITY AUDIT ANALYSIS
 
